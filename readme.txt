@@ -1,3 +1,7 @@
+========================================================
+This is a full copy of vim syntax files supplied with go
+========================================================
+
 Vim syntax highlighting for Go (http://golang.org)
 ==================================================
 
