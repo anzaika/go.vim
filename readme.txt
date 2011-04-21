@@ -1,5 +1,6 @@
 ========================================================
 This is a full copy of vim syntax files supplied with go
+Put here for ease of use with bundler
 ========================================================
 
 Vim syntax highlighting for Go (http://golang.org)
